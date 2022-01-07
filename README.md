@@ -9,7 +9,7 @@ Módulo de HTML e CSS - Responsivo
 
 Autor: **Denny Paulista Azevedo Filho**
 
-![Tela Principal](https://md.dev.br/img/sisweb/SinglePage.png)
+![Tela Principal](https://md.dev.br/img/sisweb/TelaFrontHTML.png)
 
 _Estes códigos estão sobre a licença_ **MIT**
 
